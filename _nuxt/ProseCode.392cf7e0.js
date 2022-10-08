@@ -1,0 +1,1 @@
+import{L as t,a as n,M as o}from"./entry.825fba2e.js";const r=n({props:{code:{type:String,default:""},language:{type:String,default:null},filename:{type:String,default:null},highlights:{type:Array,default:()=>[]}}});function a(e,s,l,d,p,u){return o(e.$slots,"default")}const f=t(r,[["render",a]]);export{f as default};
