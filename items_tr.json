@@ -1,0 +1,206 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "title": "Udemy Kurs Öneri Motoru",
+      "thumbnail": "https://github.com/umitkara/InternshipProject/raw/master/ss/ss1.png",
+      "categories": [
+        "ds",
+        "ml"
+      ],
+      "link": "",
+      "repo": "https://github.com/umitkara/InternshipProject/",
+      "tech": [
+        "Python",
+        "Flask",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Doğal Dil İşleme",
+        "Makine Öğrenmesi",
+        "Veri Bilimi"
+      ],
+      "images": [
+        "https://github.com/umitkara/InternshipProject/raw/master/ss/ss1.png",
+        "https://github.com/umitkara/InternshipProject/raw/master/ss/ss2.png",
+        "https://github.com/umitkara/InternshipProject/raw/master/ss/ss3.png",
+        "https://github.com/umitkara/InternshipProject/raw/master/ss/ss4.png",
+        "https://github.com/umitkara/InternshipProject/raw/master/ss/ss5.png"
+      ],
+      "description": "Bu projede Udemy kursları için bir tavsiye motoru geliştirdik. Bu modeli 2 farklı veri kümesi kullanarak oluşturduk. Bunlar kurs veri kümesi ve kurs yorumları veri kümesi. Kurs veri kümesi ile k değeri 1500 olan bir kümeleme modeli oluşturduk. Bunun için K-Means algoritmasını kullandık. Kümeleme modelini kullanrak kursların hagi kümeya ait olduğunu bulduk. Böylelikle kullanıcıdan aldıüımız girdiye en uygun kursları sunabilen bir uygulama geliştirdik.\n Kümelemeden sonra her kursun yorumları üzerinde duygusal analiz yaptık. Duygusal analizle her ders için bir bileşik skor ürettik. Bu skorla kullanıcıya dersin yorumlarının nasıl olduğunu gösterdik.\n Modeli kullanarak web arayüzüne sahip bir öneri sistemi oluşturduk. Arayüz ile kullanıcı bir öğrenme kategorisi seçebilir, öğrenmek istediği konuyu ve seviyesini girebilir. Bu verilerle, model kullanıcıya maksimum 5 benzersiz kurs önerir."
+    },
+    {
+      "id": "2",
+      "title": "Birdle",
+      "thumbnail": "https://github.com/umitkara/birdle/raw/master/ss/1.png",
+      "categories": [
+        "web",
+        "php",
+        "vue",
+        "programming"
+      ],
+      "link": "",
+      "repo": "https://github.com/umitkara/birdle",
+      "tech": [
+        "Laravel",
+        "PHP",
+        "Vue",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "MySQL"
+      ],
+      "images": [
+        "https://github.com/umitkara/birdle/raw/master/ss/4.png",
+        "https://github.com/umitkara/birdle/raw/master/ss/5.png",
+        "https://github.com/umitkara/birdle/raw/master/ss/6.png",
+        "https://github.com/umitkara/birdle/raw/master/ss/7.png",
+        "https://github.com/umitkara/birdle/raw/master/ss/8.png",
+        "https://github.com/umitkara/birdle/raw/master/ss/9.png",
+        "https://github.com/umitkara/birdle/raw/master/ss/10.png",
+        "https://github.com/umitkara/birdle/raw/master/ss/11.png"
+      ],
+      "description": "Birdle'ı bir kişisel gelişim projesi olarak geliştirdim. Bu projede Twitter'ın ana özelliklerini kopyalamya çalıştım. Projeyi Laravel ve Vue kullanrak geliştirdim. Bunun dışında durum, stata, yönetimi için Pinia modülünu kullandım.\n Bu projede temel olarak Laravel ve Vue hakkındaki bilgilerimi ve tecrübelerimi arttırdım. Ayrıca WebSocket ve durum yönetimi hakkındaki bilgilerimi geliştirdim."
+    },
+    {
+      "id": "3",
+      "title": "Social Network",
+      "thumbnail": "https://github.com/umitkara/socialnetwork/raw/master/ss/ss1.png",
+      "categories": [
+        "web",
+        "python",
+        "django",
+        "programming"
+      ],
+      "link": "",
+      "repo": "https://github.com/umitkara/socialnetwork/",
+      "tech": [
+        "Python",
+        "Django",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "SQLite"
+      ],
+      "images": [
+        "https://github.com/umitkara/socialnetwork/raw/master/ss/ss2.png",
+        "https://github.com/umitkara/socialnetwork/raw/master/ss/ss3.png",
+        "https://github.com/umitkara/socialnetwork/raw/master/ss/ss4.png",
+        "https://github.com/umitkara/socialnetwork/raw/master/ss/ss5.png",
+        "https://github.com/umitkara/socialnetwork/raw/master/ss/ss6.png",
+        "https://github.com/umitkara/socialnetwork/raw/master/ss/ss7.png"
+      ],
+      "description": "Bu proje, Django'yu öğrenmek ve HTML/CSS/JS becerilerimii geliştirmek için bir geliştirdiğim bir proje. Bu projede temel Facebook özelliklerini kopyalamaya çalıştım. Arayüz için Bootstrap kullandım. Gerçek zamanlı veri iletişimi, WebSocket veya WebRTC, kullanmadığım için yorumlar ve mesajların görüntülenmesi için sayfanın yenilenmesi gerekmektedir."
+    },
+    {
+      "id": "4",
+      "title": "Playify",
+      "thumbnail": "https://github.com/umitkara/Spotify-Clone/raw/master/ss/1.png",
+      "categories": [
+        "web",
+        "php",
+        "js",
+        "programming"
+      ],
+      "link": "",
+      "repo": "https://github.com/umitkara/Spotify-Clone/",
+      "tech": [
+        "PHP",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "MySQL"
+      ],
+      "images": [
+        "https://github.com/umitkara/Spotify-Clone/raw/master/ss/1.png",
+        "https://github.com/umitkara/Spotify-Clone/raw/master/ss/2.png",
+        "https://github.com/umitkara/Spotify-Clone/raw/master/ss/3.png",
+        "https://github.com/umitkara/Spotify-Clone/raw/master/ss/4.png",
+        "https://github.com/umitkara/Spotify-Clone/raw/master/ss/5.png",
+        "https://github.com/umitkara/Spotify-Clone/raw/master/ss/6.png",
+        "https://github.com/umitkara/Spotify-Clone/raw/master/ss/7.png",
+        "https://github.com/umitkara/Spotify-Clone/raw/master/ss/8.png",
+        "https://github.com/umitkara/Spotify-Clone/raw/master/ss/9.png"
+      ],
+      "description": "Playify, Spotify kopyası, PHP ile bir web sitesinin nasıl geliştirileceğini öğrenmek için geliştirdiğim bir kişisel gelişim projesidir."
+    },
+    {
+      "id": "5",
+      "title": "Fotoğrafçılık Çalışmaları",
+      "thumbnail": "../portfolio/photos/1.jpg",
+      "categories": [
+        "photo"
+      ],
+      "link": "",
+      "repo": "",
+      "tech": [],
+      "images": [
+        "../portfolio/photos/1.jpg",
+        "../portfolio/photos/2.jpg",
+        "../portfolio/photos/3.jpg",
+        "../portfolio/photos/4.jpg",
+        "../portfolio/photos/5.jpg",
+        "../portfolio/photos/6.jpg"
+      ],
+      "description": ""
+    },
+    {
+      "id": "6",
+      "title": "Python Çalışmaları",
+      "thumbnail": "../portfolio/other/cs_map.jpg",
+      "categories": [
+        "programming"
+      ],
+      "link": "",
+      "repo": "",
+      "images": ["../portfolio/other/cs_map.jpg"],
+      "tech": [],
+      "description": "Geliştirdiğim bazı Python prokeleri:<br/><a href='https://github.com/umitkara/Bloom-Filter'>Bloom Filter</a>,<br/><a href='https://github.com/umitkara/Heap'>Heap</a>,<br/><a href='https://github.com/umitkara/Trie-DS'>Trie</a>,<br/><a href='https://github.com/umitkara/Cache-DS'>Cache</a>."
+    },
+    {
+      "id": "7",
+      "title": "Flutty Birdle",
+      "thumbnail": "https://github.com/umitkara/twitter_clone_flutter/raw/master/ss/ss3.png",
+      "categories": [
+        "mobile",
+        "programming"
+      ],
+      "link": "https://twitterclone-22580.web.app/",
+      "repo": "https://github.com/umitkara/twitter_clone_flutter",
+      "tech": [
+        "Flutter",
+        "Dart",
+        "Firebase"
+      ],
+      "images": [
+        "https://github.com/umitkara/twitter_clone_flutter/raw/master/ss/ss1.png",
+        "https://github.com/umitkara/twitter_clone_flutter/raw/master/ss/ss2.png",
+        "https://github.com/umitkara/twitter_clone_flutter/raw/master/ss/ss3.png",
+        "https://github.com/umitkara/twitter_clone_flutter/raw/master/ss/ss4.png",
+        "https://github.com/umitkara/twitter_clone_flutter/raw/master/ss/ss5.png",
+        "https://github.com/umitkara/twitter_clone_flutter/raw/master/ss/ss6.png",
+        "https://github.com/umitkara/twitter_clone_flutter/raw/master/ss/ss7.png",
+        "https://github.com/umitkara/twitter_clone_flutter/raw/master/ss/ss8.png",
+        "https://github.com/umitkara/twitter_clone_flutter/raw/master/ss/ss9.png" 
+      ],
+      "description": "Flutty Birdle, temel Twitter özelliklerine sahip, Flutter ile geliştirilmiş bir kişsel gelişim projesidir. Bu projeyi Dart programlama dilini, Flutter ve Firebase'i öğrenmek için geliştirdim."
+    },
+    {
+      "id": "8",
+      "title": "Tasarım Çalışmaları",
+      "thumbnail": "../portfolio/design/1.jpg",
+      "categories": [
+        "design"
+      ],
+      "link": "",
+      "repo": "",
+      "tech": [],
+      "images": [
+        "../portfolio/design/1.jpg",
+        "../portfolio/design/2.jpg",
+        "../portfolio/design/3.jpg"
+      ],
+      "description": ""
+    }
+  ]
+}
